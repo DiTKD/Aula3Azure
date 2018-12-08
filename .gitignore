@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Lojinha/obj
+/.vs/Lojinha/v15/Server/sqlite3
+/Lojinha/bin/Debug/netcoreapp2.0
